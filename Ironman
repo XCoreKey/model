@@ -1,0 +1,78 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" :[
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Ironman_full_form"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Ironman_full_form",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2
+                }
+            ]
+        }
+    ],
+"accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 11304553,
+            "max" : [
+                90.11779022216797,
+                372.6909484863281,
+                105.00625610351562
+            ],
+            "min" : [
+                -90.1177978515625,
+                7.246761015267111e-06,
+                -105.00626373291016
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 11304553,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5125,
+            "count" : 11626644,
+            "type" : "SCALAR"
+        }
+    ],
+"bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 135654636,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+"bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 135654636,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
